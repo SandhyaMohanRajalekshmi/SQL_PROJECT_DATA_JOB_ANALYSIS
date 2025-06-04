@@ -1,0 +1,14 @@
+/* find most in demand skill required from the data set fo 2023*/
+
+/* list top 10 skils required data analyst and its count .*/
+
+SELECT
+     skills as demand_skills,
+     count(*) as demand_count
+from job_postings_fact
+INNER JOIN skills_job_dim ON job_postings_fact.job_id = skills_job_dim.job_id
+INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
+where job_title_short ='Data Analyst' 
+group by skills
+order by demand_count DESC
+limit 10
