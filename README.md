@@ -24,12 +24,12 @@ Motivated by the need to better understand the data analyst job market, this pro
 
 Here are the key findings from the analysis:
 
-Highest-Paying Roles: Remote data analyst jobs can offer very high salaries, with some reaching up to $650,000.
+    1. Highest-Paying Roles: Remote data analyst jobs can offer very high salaries, with some reaching up to $650,000.
 
-Key Skill for High Pay: SQL is a must-have skill for landing top-paying data analyst positions.
+    2. Key Skill for High Pay: SQL is a must-have skill for landing top-paying data analyst positions.
 
-Most Wanted Skill: SQL is the most frequently listed requirement in job postings, making it crucial for job seekers.
+    3. Most Wanted Skill: SQL is the most frequently listed requirement in job postings, making it crucial for job seekers.
 
-High-Earning Niche Skills: Skills like SVN and Solidity are linked to higher average salaries, showing that specialized knowledge pays off.
+    4. High-Earning Niche Skills: Skills like SVN and Solidity are linked to higher average salaries, showing that specialized knowledge pays off.
 
-Best Skill for Value: SQL stands out as both highly in-demand and well-paid, making it one of the best skills for data analysts aiming to boost their career value.
+    5. Best Skill for Value: SQL stands out as both highly in-demand and well-paid, making it one of the best skills for data analysts aiming to boost their career value.
